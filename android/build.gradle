@@ -33,6 +33,7 @@ android {
     defaultConfig {
         minSdkVersion 16
     }
+    namespace 'com.mesosfer.flimer'
 }
 
 dependencies {
